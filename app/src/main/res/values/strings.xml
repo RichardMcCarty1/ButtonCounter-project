@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ButtonCounter</string>
+    <string name="upButText">Increment</string>
+    <string name="downButText">Decrement</string>
+</resources>
