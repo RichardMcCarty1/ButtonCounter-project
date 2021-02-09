@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ButtonCounter</string>
+    <string name="upButText">Incremento</string>
+    <string name="downButText">Decremento</string>
+    <string name="resetButton">REINICIAR</string>
+    <string name="languageButton">inglés</string>
+</resources>

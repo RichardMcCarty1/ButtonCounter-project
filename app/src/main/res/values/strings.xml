@@ -3,4 +3,5 @@
     <string name="upButText">Increment</string>
     <string name="downButText">Decrement</string>
     <string name="resetButton">RESET</string>
+    <string name="languageButton">español</string>
 </resources>
